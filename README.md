@@ -1,7 +1,5 @@
 # LLM Benchmark
 
-[toc]
-
 1. [ChatGPT - Jack of all trades, master of none](http://arxiv.org/pdf/2302.10724v4)
 2. [Do LLMs Understand Why We Write Diaries? A Method for Purpose Extraction and Clustering](http://arxiv.org/pdf/2506.00985v1)
 3. [Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation](https://arxiv.org/pdf/2506.21876)
